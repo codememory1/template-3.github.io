@@ -555,6 +555,14 @@ a {
     .header__staticrics-top,.header__staticrics-bottom {
         justify-content: center;
     }
+
+    .description__whr {
+        margin-top: 0px;
+    }
+
+    .description__wrap {
+        grid-template-columns: 1fr;
+    }
 }
 
 @media (max-width: 755px) {
@@ -564,14 +572,6 @@ a {
     .relax-item {
         display: grid;
         justify-content: center;
-    }
-
-    .description__wrap {
-        grid-template-columns: 1fr;
-    }
-
-    .description__whr {
-        margin-top: 0px;
     }
 
     h1 {
