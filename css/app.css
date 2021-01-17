@@ -524,6 +524,7 @@ table td {
 
     .info__back-call {
         right: 20px;
+        top: 95px!important;
     }
 
     .header__menu {
