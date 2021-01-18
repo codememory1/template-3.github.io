@@ -515,7 +515,7 @@ table td {
 
     .info__phone,.info__back-call {
         position: absolute;
-        top: 75px;
+        top: 90px;
     }
 
     .info__phone {
@@ -524,7 +524,7 @@ table td {
 
     .info__back-call {
         right: 20px;
-        top: 80px!important;
+        top: 97px!important;
     }
 
     .header__menu {
@@ -582,6 +582,11 @@ table td {
 }
 
 @media (max-width: 600px) {
+    .header__logo img {
+        max-width: 104px;
+        height: 27px;
+    }
+	
     .header__statistics {
         grid-gap: 25px;
     }
@@ -653,11 +658,6 @@ table td {
 }
 
 @media (max-width: 400px) {
-    .header__logo img {
-        max-width: 104px;
-        height: 27px;
-    }
-
     .info__networks img {
         width: 25px;
         height: 25px;
