@@ -655,6 +655,7 @@ table td {
 @media (max-width: 400px) {
     .header__logo img {
         max-width: 104px;
+        height: 27px;
     }
 
     .info__networks img {
