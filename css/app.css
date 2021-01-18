@@ -515,7 +515,7 @@ table td {
 
     .info__phone,.info__back-call {
         position: absolute;
-        top: 91px;
+        top: 75px;
     }
 
     .info__phone {
@@ -524,7 +524,7 @@ table td {
 
     .info__back-call {
         right: 20px;
-        top: 95px!important;
+        top: 80px!important;
     }
 
     .header__menu {
