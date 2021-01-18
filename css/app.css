@@ -612,6 +612,12 @@ table td {
 }
 
 @media (max-width: 540px) {
+    .info__phone, .info__back-call {
+	top: 80px;
+    }
+    .info__back-call {
+       top: 84px;
+    }
     .relax__item-info:first-of-type {
         margin-bottom: 5px;
     }
