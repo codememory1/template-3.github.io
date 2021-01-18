@@ -616,7 +616,7 @@ table td {
 	top: 80px;
     }
     .info__back-call {
-       top: 84px;
+       top: 84px!important;
     }
     .relax__item-info:first-of-type {
         margin-bottom: 5px;
